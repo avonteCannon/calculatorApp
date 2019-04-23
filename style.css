@@ -2,7 +2,7 @@ body{
     font-family: Arial, Helvetica, sans-serif
 }
 
-button{
+#BTN{
     background-color: #aa8a39;
     border: unset;
     color: #FFF;
