@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+button{
+    background-color: #aa8a39;
+    border: unset;
+    color: #FFF;
+    display: block;
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    padding: 1rem 0.75rem;
+}
+
+button:hover{
+    background-color: rgba(170, 138, 57, 0.7);
+}
+
+#discount-calc-container{
+    margin-left: 5rem;
+}
+
+#discount-price{
+    color: #13800f;
+    font-size: 1.6rem;
+}
+
+#final-price{
+    color: #21095f;
+    font-weight: bold;
+}
+
+input,
+.input-label{
+    color: #28536c;
+    font-size: 1.3rem;
+}
